@@ -33,7 +33,7 @@ Cisco Packet Tracer is a powerful network simulation tool that allows users to c
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/cisco-packet-tracer-router-simulation.git
+    git clone https://github.com/ShivaniSuresh1/cisco-packet-tracer-router-simulation.git
     ```
 
 2. Open the project in Cisco Packet Tracer.
