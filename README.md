@@ -15,13 +15,6 @@ This repository contains a Cisco Packet Tracer project that simulates various ro
 
 Cisco Packet Tracer is a powerful network simulation tool that allows users to create, configure, and simulate network topologies with a variety of Cisco devices, including routers. This project leverages Packet Tracer to provide a hands-on learning experience for router configurations.
 
-## Features
-
-- A collection of router simulation scenarios.
-- Detailed documentation and instructions for each scenario.
-- Configurations covering various network protocols and scenarios.
-- Sample network topologies for practice.
-
 ## Getting Started
 
 ### Prerequisites
