@@ -5,7 +5,6 @@ This repository contains a Cisco Packet Tracer project that simulates various ro
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
